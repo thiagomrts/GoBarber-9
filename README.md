@@ -3,5 +3,5 @@
 </h1>
 
 <h3 align="center">
-  GoBarber
+  GoBarber 9
 </h3>
